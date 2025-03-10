@@ -1,8 +1,6 @@
 <h1> Welcome To Austin's Profile Page!!</h1>
   <h3> Turns out you can't have custom fonts on your README.MD </h3>
-  anyway, this is my github profile. 
-  i like free open source software and i use linux
-  
-  my website is www.austinsprojects.com
-  
-  Certified Microsoft Technology Associate (and i use arch and ubuntu lol)
+I'm a Electronic Engineering Student at the University of Auckland. 
+Check out my photography and projects at www.austinsprojects.com !
+
+
